@@ -1,0 +1,6 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3024
+
+Ever wanted to edit/compile/assemble/link and debug, then run the completed program all inside one Vim or Gvim editing session. With Vimake you can do this and much more, no need to write Makefiles, no need to exit vim to test your programs, it can all be done using just a few function keys.
+Vimake is a programming aid which can build files in C, C++, as(Gas) & Nasm This allows single or mixed language programs to be built at the touch of a  key. You can also write, test and run bash, perl, ruby, and python scripts all
+whilst in a normal Vim or Gvim session. Used with Vim&#039s QuickFix function it turns Vim into a powerful programming environment.
+~    
